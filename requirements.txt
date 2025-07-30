@@ -1,0 +1,2 @@
+imaplib2 
+PyPDF2
